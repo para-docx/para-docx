@@ -4,7 +4,6 @@
   <h2>I am a passionate Student Developer, Currently learning Next.js</h2> 
 </div>
 <br>
-<br>
 
 
 ## Here's some stuff about me:

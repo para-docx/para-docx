@@ -4,9 +4,9 @@
   <h2>I am a passionate Student Developer, Currently learning Next.js</h2> 
 </div>
 <br>
-<div align="center">
+
   ![Alt Text](https://tenor.com/view/anime-hi-hello-waving-wave-gif-17227125.gif)
-</div>
+  
 
 
 ## Here's some stuff about me:

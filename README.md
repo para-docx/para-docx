@@ -5,8 +5,10 @@
 </div>
 <br>
 
-  ![Alt Text](https://tenor.com/view/anime-hi-hello-waving-wave-gif-17227125.gif)
-  
+<div align = "center">
+  <img src="https://c.tenor.com/Ri0dWjWTfjsAAAAC/anime-hi.gif" alt="heyo" />
+</div>
+
 
 
 ## Here's some stuff about me:
@@ -19,6 +21,9 @@
  
  ## My Github Stats
  ![Github stats](https://github-readme-stats.vercel.app/api?username=para-docx)
+ 
+ ## Currently Doing
+ [![Discord Presence](https://lanyard.cnrad.dev/api/665469952752484374)](https://discord.com/users/665469952752484374)
    
 ## Currently Listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zanlx2rmfti6y4fdzxyyt6mcp4&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31zanlx2rmfti6y4fdzxyyt6mcp4&redirect=true)

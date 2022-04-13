@@ -8,7 +8,6 @@
 
 
 ## Here's some stuff about me:
-<br>
 <ul style="list-style-type:disc;">
   <li> 20 year old self-taught proggramer { ofc with help of my mates too ;) }</li>
   <li>Im currently pursuing electronics and communication engineering </li>

@@ -5,12 +5,6 @@
 </div>
 <br>
 
-<div align = "center">
-  <img src="https://c.tenor.com/Ri0dWjWTfjsAAAAC/anime-hi.gif" alt="heyo" />
-</div>
-
-
-
 ## Here's some stuff about me:
 <ul style="list-style-type:disc;">
   <li> 20 year old self-taught proggramer { ofc with help of my mates too ;) }</li>

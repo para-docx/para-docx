@@ -7,7 +7,7 @@
 
 ## Here's some stuff about me:
 <ul style="list-style-type:disc;">
-  <li> 20 year old self-taught programmer { ofc with help of my mates too ;) }</li>
+  <li> 21 year old self-taught programmer { ofc with help of my mates too ;) }</li>
   <li>I'm currently pursuing Electronics and Communication Engineering </li>
   <li>A total nerd and <u> piano </u> lover </li>
  </ul>

@@ -13,10 +13,10 @@
  </ul>
  
  
- ## My Github Stats
+ ## Github Stats
  ![Github stats](https://github-readme-stats.vercel.app/api?username=para-docx)
  
- ## Currently Doing
+ 
  [![Discord Presence](https://lanyard.cnrad.dev/api/665469952752484374?idleMessage=Probably%20working%20irl...)](https://discord.com/users/665469952752484374)
    
 ## Currently Listening to

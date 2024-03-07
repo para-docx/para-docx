@@ -1,7 +1,7 @@
 ![header](./assets/header2.png)
 
 <div align="center">
-  <h2>I am a passionate Student Developer, Currently learning Rust</h2> 
+  <h2>I am a passionate Product Developer, Currently learning Rust</h2> 
 </div>
 <br>
 

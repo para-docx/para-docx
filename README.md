@@ -1,13 +1,13 @@
 ![header](./assets/header2.png)
 
 <div align="center">
-  <h2>I am a passionate Student Developer, Currently learning Next.js</h2> 
+  <h2>I am a passionate Student Developer, Currently learning Rust</h2> 
 </div>
 <br>
 
 ## Here's some stuff about me:
 <ul style="list-style-type:disc;">
-  <li> 21 year old self-taught programmer { ofc with help of my mates too ;) }</li>
+  <li> 22 year old self-taught programmer { ofc with help of my mates too ;) }</li>
   <li>I'm currently pursuing Electronics and Communication Engineering </li>
   <li>A total nerd and <u> piano </u> lover </li>
  </ul>
